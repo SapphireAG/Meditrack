@@ -1,0 +1,26 @@
+# MediTrack theme: clinical light blue on white, green accent from the logo.
+# Streamlit reads this file when the app is started from the project root.
+
+[theme]
+base = "light"
+primaryColor = "#1F6FC5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F7FD"
+textColor = "#12395E"
+linkColor = "#1F6FC5"
+borderColor = "#D6E6F5"
+showWidgetBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
+codeBackgroundColor = "#F4F8FC"
+codeTextColor = "#155AA6"
+dataframeHeaderBackgroundColor = "#EAF3FC"
+dataframeBorderColor = "#E1ECF7"
+greenColor = "#2EAD4B"
+blueColor = "#1F6FC5"
+chartCategoricalColors = ["#1F6FC5"]
+
+[client]
+toolbarMode = "minimal"

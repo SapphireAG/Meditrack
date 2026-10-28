@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 48" width="208" height="48">
+  <circle cx="24" cy="24" r="20.5" fill="#ffffff" stroke="#2EAD4B" stroke-width="3"/>
+  <rect x="19.75" y="10.5" width="8.5" height="27" rx="2.2" fill="#2EAD4B"/>
+  <rect x="10.5" y="19.75" width="27" height="8.5" rx="2.2" fill="#2EAD4B"/>
+  <text x="54" y="31" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="700" fill="#12395E">Medi<tspan fill="#1F6FC5">Track</tspan></text>
+</svg>
